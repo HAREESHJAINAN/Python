@@ -49,4 +49,4 @@ if "apple" in thislist:
 """
 thislist2 = ["apple", "banana", "cherry"]
 if "apple" in thislist2:
-  print("Yes, 'apple' is in the fruits list")
+  print("Yes, 'apple' is in the fruits list available")
